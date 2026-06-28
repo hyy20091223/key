@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "updated": "2026-06-28",
+  "cards": {
+    "0fe3be84ad3072145ff240d9209db5ed726b150e1f6b604cc4a3c9d861b223e7": {
+      "type": "time",
+      "status": "active",
+      "created": "2026-06-28",
+      "note": "测试",
+      "expire": 1782712863
+    }
+  }
+}
